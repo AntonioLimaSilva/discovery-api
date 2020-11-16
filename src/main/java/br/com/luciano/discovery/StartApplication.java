@@ -1,4 +1,4 @@
-package br.com.luciano.discovery.discoveryapi;
+package br.com.luciano.discovery;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

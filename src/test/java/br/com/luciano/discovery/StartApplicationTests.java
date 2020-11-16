@@ -1,4 +1,4 @@
-package br.com.luciano.discovery.discoveryapi;
+package br.com.luciano.discovery;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
